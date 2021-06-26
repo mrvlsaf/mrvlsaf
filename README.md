@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvlsaf&label=Visits&color=007bff&style=plastic" alt="mrvlsaf" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mrvlsaf" target="blank"><img src="https://img.shields.io/twitter/follow/mrvlsaf?logo=twitter&style=for-the-badge" alt="mrvlsaf" /></a> </p>
-<img align="right" width="400" src="https://dribbble.com/shots/9023972-React-Suspense?utm_source=Clipboard_Shot&utm_campaign=mappleton&utm_content=React%20Suspense&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mappleton&utm_content=React%20Suspense&utm_medium=Social_Share">
+
 
 
 - 👨‍💻 Stalk me at [https://mrvlsaf.github.io/devrajsingh/](https://mrvlsaf.github.io/devrajsingh/)
