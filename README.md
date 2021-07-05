@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/mrvlsaf05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrvlsaf05" height="30" width="40" /></a>
 <a href="https://instagram.com/mrvlsaf._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrvlsaf._" height="30" width="40" /></a>
 <a href="https://discord.gg/uM5TRfMH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uM5TRfMH" height="30" width="40" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvlsaf&label=Visits&color=007bff&style=plastic" alt="mrvlsaf" /> </p>
+<img src="https://komarev.com/ghpvc/?username=mrvlsaf&label=Visits&color=007bff&style=plastic" alt="mrvlsaf" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/mrvlsaf" target="blank"><img src="https://img.shields.io/twitter/follow/mrvlsaf?logo=twitter&style=for-the-badge" alt="mrvlsaf" /></a> </p>
