@@ -22,4 +22,4 @@
 
 ![Devraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvlsaf&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvlsaf&" alt="mrvlsaf" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrvlsaf&theme=dark&hide_border=true)](https://git.io/streak-stats)
