@@ -27,7 +27,3 @@
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvlsaf&" alt="mrvlsaf" /></p>
-
-## Stargazers
-
-[![Stargazers repo roster for @mrvlsaf/mrvlsaf](https://reporoster.com/stars/mrvlsaf/mrvlsaf)](https://github.com/mrvlsaf/mrvlsaf/stargazers)
