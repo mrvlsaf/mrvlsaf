@@ -1,5 +1,5 @@
 <h1 align="center">Sup! My Name is <strong>Devraj Singh</strong></h1>
-<h3 align="center">A Passionate Developer.</h3>
+<h3 align="center">A Final year Computer Science Undergrad.</h3>
 
 <p align="left">
 <a href="https://twitter.com/mrvlsaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrvlsaf" height="30" width="40" /></a>
