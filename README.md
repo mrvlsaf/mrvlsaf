@@ -15,8 +15,6 @@
 
 - 👨‍💻 Stalk me at [https://mrvlsaf.github.io/devrajsingh/](https://mrvlsaf.github.io/devrajsingh/)
 
-- 📫 Contact me at **dsdevrajsingh55555@gmail.com**
-
 - ⚡ I am a **sports enthusiast**
 
 ![Devraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvlsaf&show_icons=true&theme=dark&hide_border=true)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrvlsaf&theme=dark&hide_border=true)](https://git.io/streak-stats)
