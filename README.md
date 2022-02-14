@@ -20,5 +20,5 @@
 
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=mrvlsaf" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=mrvlsaf&theme=xcode" /></p>
 </details>
