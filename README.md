@@ -16,8 +16,3 @@
 - ⚡ I am a **sports enthusiast**
 
 ![Devraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvlsaf&show_icons=true&theme=dark&hide_border=true)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrvlsaf&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://github.com/users/mrvlsaf/contributions" /></p>
-</details>
