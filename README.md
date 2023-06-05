@@ -1,5 +1,5 @@
 <h1 align="center">Sup! My Name is <strong>Devraj Singh</strong></h1>
-<h3 align="center">A Final year Computer Science Undergrad.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
