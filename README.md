@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 Explore me at [https://mrvlsaf.github.io/devrajsingh/](https://mrvlsaf.github.io/portfolio/)
+- 👨‍💻 Explore me at [Portfolio](https://mrvlsaf.github.io/portfolio/)
 
 - ⚡ I am a **sports enthusiast**
 
