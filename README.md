@@ -1,5 +1,4 @@
-<h1 align="center">Sup! My Name is <strong>Devraj Singh</strong></h1>
-<h3 align="center">Full Stack Developer.</h3>
+<h1 align="center">Frontend Engineer with 4+ years of building enterprise React, Next.js, and TypeScript products for global retail and mapping platforms. One of the few developers combining Retail Media ad-tech with GIS/OpenLayers experience.</h1>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
